@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">BookApp</string>
+    <string name="ho_geldiniz">Hoşgeldiniz!</string>
+    <string name="misafir_giri_i">Misafir Girişi</string>
+    <string name="giri">Giriş</string>
+    <string name="giri_yap_n">Giriş Yapın</string>
+    <string name="email">Email</string>
+    <string name="ifre">Şifre</string>
+    <string name="parolan_z_m_unuttunuz">Parolanızı mı unuttunuz?</string>
+    <string name="yeni_kullan_c_ye_ol">Yeni Kullanıcı? <b> Üye ol!</b></string>
+    <string name="yeni_ye_olu_tur">Yeni Üye Oluştur</string>
+    <string name="sim">İsim</string>
+    <string name="ifre_tekrar">Şifre Tekrarı</string>
+    <string name="kay_t_ol">Kayıt Ol</string>
+    <string name="admin_sayfas">Admin Sayfası</string>
+    <string name="kullan_c_sayfas">Kullanıcı Sayfası</string>
+    <string name="kategori_ekle">+ Kategori Ekle</string>
+    <string name="yeni_kategori_ekleyin">Yeni Kategori Ekleyin</string>
+    <string name="kategori_ad">Kategori Adı</string>
+    <string name="ekle">Ekle</string>
+    <string name="ara">Ara</string>
+    <string name="yeni_kitap_ekle">Yeni Kitap Ekle!</string>
+    <string name="a_klama">Açıklama</string>
+    <string name="kitap_ad">Kitap Adı</string>
+    <string name="kitap_a_klamas">Kitap Açıklaması</string>
+    <string name="kategori">Kategori</string>
+    <string name="_13_mb">13 MB</string>
+    <string name="dd_mm_yyyy">dd/MM/yyyy</string>
+    <string name="story_book">STORY BOOK</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
